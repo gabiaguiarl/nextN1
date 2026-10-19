@@ -42,3 +42,8 @@ Implementação testada localmente em 19/10/2026. Repositório de destino confir
 
 ## Revisão visual
 Layout aproximado do mockup fornecido: fundo #f3f4fa, casal ilustrativo em assets/hero-casal.png, símbolo da marca e faixa de benefícios. Gotham configurada via fontes locais; falta fornecer os arquivos web licenciados para exibição consistente em qualquer computador. Foto gerada pela ferramenta nativa image_gen; prompt e rastreabilidade registrados em CONTEXTO.md.
+
+## Publicação no GitHub Pages
+Site: https://gabiaguiarl.github.io/nextN1/
+Repositório: https://github.com/gabiaguiarl/nextN1
+GitHub Pages ativado em 19/10/2026, fonte main / raiz. Atualizações enviadas a main são publicadas automaticamente. A pendência de acesso descrita anteriormente foi resolvida usando a conta do Git Credential Manager local.

@@ -51,3 +51,6 @@ A cada alteração, atualizar este arquivo com implementação, validação e pe
 - Usuário autorizou publicação da versão atual. Git Credential Manager local possui a conta gabiaguiarl; conector permanece somente leitura.
 - Preparação de envio dos arquivos estáticos para main e ativação do GitHub Pages na raiz. Excluídos tmp, PDF original e pacote ZIP.
 
+- Envio concluído para https://github.com/gabiaguiarl/nextN1 na branch main, commit inicial 5e567d2.
+- GitHub Pages ativado via API para main / raiz. URL retornada: https://gabiaguiarl.github.io/nextN1/ . Publicação inicial em processamento; verificar resposta HTTP antes da entrega.
+- Para futuras alterações, atualizar este documento e enviar commit para main; GitHub Pages republica automaticamente.
